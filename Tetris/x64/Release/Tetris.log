@@ -1,0 +1,142 @@
+﻿  main.cpp
+c:\users\id student\source\repos\tetris\tetris\main.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(126): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(135): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(137): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(178): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(225): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(239): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(242): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(256): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(260): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(263): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(272): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(322): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(341): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(348): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(355): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(362): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(369): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(376): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(401): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(403): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(523): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(544): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(563): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(586): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\id student\source\repos\tetris\tetris\main.cpp(684): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(685): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(687): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(688): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\id student\source\repos\tetris\tetris\main.cpp(695): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  6 of 677 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    78 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tetris.vcxproj -> C:\Users\iD Student\source\repos\Tetris\x64\Release\Tetris.exe
