@@ -1,3 +1,3 @@
 # Not-Tetris
 
-Une réplique simple du jeu [Tetris](https://tetris.com/)
+Une réplique simple du jeu [Tetris](https://tetris.com/) en C++
